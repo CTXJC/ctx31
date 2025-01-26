@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>libreria de trabajos</title>
+</head>
+<body>
+    <div>
+        <a href="curriculum1.html">curriculum</a>
+        <a href="">otras tareas</a>
+        <a href="">otra tarea</a>
+        <a href="">otra tarea</a>
+    </div>
+</body>
+</html>
